@@ -29,8 +29,8 @@ Atualmente, estou focada em:
 - 🏆 **Sucesso do cliente**, garantindo soluções que agregam valor real.
 
 ### 🌎 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jessicacechin/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cechinjessica)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jessicacechin/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jessica.cechin/)
 
 > 🚀 **Quer saber mais sobre minha trajetóri aprofissional?** Confira meu [LinkedIn](https://www.linkedin.com/in/jessicacechin/)!
 > Ou veja meus projetos no [GitHub](https://github.com/cechinjessica)! 🔥
