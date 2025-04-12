@@ -3,22 +3,18 @@
 ### 💻 Sobre mim
 Construir soluções tecnológicas de impacto é o que me move! 💡
 
-Com mais de 5 anos de experiência em desenvolvimento fullstack, dedico-me a criar aplicações eficientes,
+Com 6 anos de experiência em técnologia, dedico-me a criar aplicações eficientes,
 sempre com foco na qualidade técnica e na entrega de valor ao cliente.
-Atualmente, estou focada em **C#, .NET, SQLServer (backend) e JavaScript (frontend)**. Tenho paixão por tecnologia e resolução de problemas.
+Atualmente, estou focada em **.NET, SQLServer (backend) e JavaScript (frontend)**. Tenho paixão por tecnologia e resolução de problemas.
 Por isso, ao longo da minha trajetória, atuei com diferentes linguagens e tecnologias, desenvolvendo flexibilidade e aprendizado contínuo.
-Além disso, sou entusiasta de comunidades e voluntariado, participando ativamente do **Rotaract da minha cidade**. 🤝
+Além disso, sou entusiasta de comunidades e voluntariado, participando ativamente do **Rotaract** da minha cidade. 🤝
 
 
 ### 🎯 Minhas principais competências incluem:
 ✅ **Desenvolvimento de Software:** C#, .NET, Java, Delphi;
-
 ✅ **Integrações entre sistemas:** APIs REST e SOAP;
-
 ✅ **Bancos de Dados:** SQL Server, Oracle, PostgreSQL – expertise em PL/SQL, triggers e functions para automação;
-
 ✅ **Metodologias Ágeis:** Experiência com **Kanban e Scrum** para promover melhoria contínua;
-
 ✅ **Soft Skills:** Comunicação clara, colaboração e trabalho em equipe.
 
 
@@ -39,7 +35,6 @@ Atualmente, estou focada em:
 ### 📊 Estatísticas do GitHub
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cechinjessica&theme=radical)
-
 ![Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cechinjessica&theme=radical)
 ![Commits Recentes](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cechinjessica&theme=radical)
 
