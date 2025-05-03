@@ -48,7 +48,4 @@ Atualmente, estou focada em:
 
 ### 📊 Estatísticas do GitHub
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cechinjessica&theme=radical)
-![Commits Recentes](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cechinjessica&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cechinjessica&layout=compact&theme=radical)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=cechinjessica&theme=radical)
 
